@@ -28,7 +28,7 @@ const renderUsers = data => {
     }
 }
 
-fetch(url).then(response => response.json())
+fetch(url, {mode:'no-cors'}).then(response => response.json())
           .then(data => resFilter(data))
           .then(data => renderUsers(data))
           .catch(err => {throw new Error(err)});
