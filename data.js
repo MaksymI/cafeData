@@ -949,3 +949,8 @@ const resFilter = data => data.results.map(result => (
 );
 
 console.log(resFilter(data));
+
+fetch(url, {mode:'no-cors'}).then(response => response.json())
+.then(data => resFilter(data))
+.then(data => renderUsers(data))
+.catch(err => {throw new Error(err)});
