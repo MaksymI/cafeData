@@ -1876,10 +1876,947 @@ const data = {
     "status": "OK"
 };
 
+const data3 = {
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.84184750000001,
+                    "lng": 24.0305664
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8432046302915,
+                        "lng": 24.0319548302915
+                    },
+                    "southwest": {
+                        "lat": 49.8405066697085,
+                        "lng": 24.0292568697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "53403a3d199755cdf000da41583d1b663d6d60af",
+            "name": "Мир Кофе",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110001821626041299226/photos\">Alexander Prokhorenko</a>"
+                    ],
+                    "photo_reference": "CmRZAAAAKew8GRN9zugXGQWT1amVLyO9xpVU19QJjpt6i6q8rbW1OT_VHhLoNVyNnHopmmiCiHcityKW3jh5KJuZEJNa9N8apOhgMXB79q8BLkBaP4Kfh6Gt1r5resFVVGCJPdvzEhBp2AiiBFUTYtYsz-igyL0XGhTqjAu2P_KT3_HaJQr4wrbqTFk-yA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJC6I_vW3dOkcRbJTP628sFOM",
+            "rating": 4.6,
+            "reference": "CmRSAAAADM_Lsx5s2Ch8-l4oXRKLW4Pb2Z0S9PpNsKdQnkNwqQK26A3VntRAm2bpJdXpe10TKnw3mhVImKfBhZteTSD0b7F6stQ449FRXyfnO_DhKoYUZkgR8Sp38IccYyAHTFkGEhA1237X5gt0Y6zxbU-FzHWGGhTUZp5VdNyw65DLF51bR7IuJBU56w",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "площа Ринок, 30, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.843106,
+                    "lng": 24.031629
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.84447858029149,
+                        "lng": 24.0329723302915
+                    },
+                    "southwest": {
+                        "lat": 49.84178061970849,
+                        "lng": 24.0302743697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "6e15c5371e0981958ea0b95b969821df6c80b1b9",
+            "name": "Гасова лямпа",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2832,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106409759264661367544/photos\">Гасова лямпа</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_MEOx1b21EWk-DL3B-eURylBxmBf9xSG2NJzFFVFne28yuApRVWmRfAOGBFa2iQWAV5dkJ8LLxwLmdtKdSLyh-_ir3ahp4tjmB6u5kd3ZXSiezl8eAYVDFMUQB1mP1fVEhDgTALONWMN7AaGkbVy58MBGhScckuG_5KYXygwIJINexou0b7gWQ",
+                    "width": 4256
+                }
+            ],
+            "place_id": "ChIJlS_7Em3dOkcR478bgyd8Xpw",
+            "rating": 4.6,
+            "reference": "CmRSAAAA3x_2h_bvarQOkSAYqbDCehOeHWEX1vUh_l_1ke92V55SVVAeD_JWZzbZqgprc6iKCSvyfsapcTpbnf_uF6KeT8Ic4X64rDxs_7Ed-qC3b5AimKzyLUrsHMEzZHczdKn1EhBU06oCDXO3shY1UAV4H901GhREpV7bHI8-yZIi0YHlHTYDK_ogjQ",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вулиця Вірменська, 20, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.8425825,
+                    "lng": 24.0299576
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8439314802915,
+                        "lng": 24.0313065802915
+                    },
+                    "southwest": {
+                        "lat": 49.8412335197085,
+                        "lng": 24.0286086197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "de11fe28e0af93678a22151d471b4de7b203e29d",
+            "name": "Друзі",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2948,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106132480366282846621/photos\">Друзі</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAppmqDk5d-l-11cI7V4qOMqATz37XU-sKpZc8tkGn0rgWJMClcWI8lOvn-2g0poocxZSw2ugN1HOLI2hg3t6iy30cBC_9nKgiTXr6xdHD_1mIo-kCW6aRREzgmpJELR7DEhAszJbMzdc7gVF1E6XVJoBtGhR8ymNhsIr0JbNyjYUQXxWErTBt4g",
+                    "width": 2949
+                }
+            ],
+            "place_id": "ChIJUw90nW3dOkcRgtR0VOu9Ilg",
+            "rating": 4.2,
+            "reference": "CmRRAAAAiMHtMdNhfoTVuASbM7YXl__dRbHvFu03WOu_S0bYUT6vOyevUoQrQTrEpuLYeM4_GZuTilEDCbruVUKU_WxHrkYTO1GHxVn_WJ3doLH7UGUZRT7gwgOiH8rXiYHRLEhxEhAO26cbnkK_Y4h0M5kW4iGxGhQ1Am32WTJUVerSEHEkNUul4ZMLkA",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вулиця Краківська, 5, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.8435394,
+                    "lng": 24.0321458
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8448853802915,
+                        "lng": 24.0333992802915
+                    },
+                    "southwest": {
+                        "lat": 49.8421874197085,
+                        "lng": 24.03070131970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "21d554209dbd943736de3bc8c5a8a70ebdb794f3",
+            "name": "Tante Sophie càfe escargot",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105232932139702117612/photos\">VoLoDyMyR KoVaLkO</a>"
+                    ],
+                    "photo_reference": "CmRaAAAANAjGFSu1LG6etGE8BRv1hVZtl3io5C5LG4GMu--e2e3-4sLz5d8LQIJVo3E93TSaZFos9FTeWwCayuTvmFRTu8wLIhAloIXof6d_OEow1D7edj9-gpbAXcju5ntHOCWIEhCrCqsye-VtRllhWcbxB5XnGhTFVERpQVf7KIsyjB2lYWSogRBYkw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJHVAkFG3dOkcRoNZw79xTTcU",
+            "rating": 4.6,
+            "reference": "CmRSAAAAx4v2-T0sC2p7GdWBM0lZTXcli0ZZCDYT9cq6CkxG6lj9WHpznRhWX6sF_R9cPOraAerC6cloSWhwk_Xc77IK-bMJPFL5bXF1Jw5p6HAE7htrP7vmXrkkXECcVYLVX93ZEhBkTphr2LnqkeEQqF0q3LveGhROD2LrwJvZLk5ESZVs6Yt1k-Ba_w",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вулиця Друкарська, 6А, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.84396880000001,
+                    "lng": 24.02886080000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8452259802915,
+                        "lng": 24.0302086302915
+                    },
+                    "southwest": {
+                        "lat": 49.8425280197085,
+                        "lng": 24.0275106697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "54379e56b06123ee6a950e982393ad6fe5d41303",
+            "name": "Jam Арт Кафе",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109767275397804215983/photos\">Владимир Клименко</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWqNRVWDJZxC3qTbr7Qc1zAGUp_xrqZyhmCjqd3F1-AUK2AuNB7KT530fmoAX4H0NMz61AxjVCGOuHfKG4yOJGVx1B7VDFd32XHCwV8bsSFPPEU-5dbl-Ti9I7aAPdj7cEhDw1pmGaGGFd59dh0zsuPEIGhTNMM5TLhHF8iqk0KvgsG5c1eleVw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJJf5Pl3LdOkcRt95TaiAE7BQ",
+            "rating": 5,
+            "reference": "CmRRAAAAlPBg7N_BHNkP5Vs19uEeP4CNjj9vaaS3xNO3yQ0soPjKzOhAg-dqvJd4iu7R3wDAyKe2Q06T9qsj_ig1YewzrEN0OCnSYNnnw0QI0tfxuK6T5iMJdV_wSD2TtJrtE3emEhAg7VEz5MhDOEUGx3f4kMeyGhQaWtmfFoK6kYSdyqPZMSoutzVc-A",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вулиця Лесі Українки, 5, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.8433453,
+                    "lng": 24.0338322
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.84469223029149,
+                        "lng": 24.0350312802915
+                    },
+                    "southwest": {
+                        "lat": 49.84199426970849,
+                        "lng": 24.0323333197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "14cd695e2460a2dd5c838f104432555f8ff32931",
+            "name": "Дзыга",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 381,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113225793860991543514/photos\">Арт - центер &quot;Дзиґа&quot;</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAPPxLaDFJ3j2lQMJkx1YZhNe_s297P3fNSeTtDoBtRUWSbQSjOcXvrOEGqw4G31IXnEh1EfhWs6nNRIUGg-SAfZkciNGXg2yilwVCew877hGwMxKgMEFWheDMa4I016htEhAcEAngjbW6jB_TlwfPGdiNGhSqUcRq7wqc1DdFAkV84rcGvatFRw",
+                    "width": 609
+                }
+            ],
+            "place_id": "ChIJz_nk3WzdOkcRXxy21l1VmDk",
+            "rating": 4.4,
+            "reference": "CmRRAAAAQQyZQbP0vW2mxuaune2oCWtbLZR3GZw09425ctrxUnlp289E-k4_wUH2CuA2S6LXtIa0UfnYN8ME4XN67nA0KYrW0v-6E5i0yP3_RJnrT1JaQVejo1y1dYaW0HEee2pxEhBnqJ6MArWS4OIJSo2aEjPLGhSIMxW08wo_QGsnIwEIo4sA2OEo_g",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "cafe",
+                "bar",
+                "night_club",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вулиця Вірменська, 35, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.8413477,
+                    "lng": 24.032436
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.84277633029149,
+                        "lng": 24.0337442302915
+                    },
+                    "southwest": {
+                        "lat": 49.8400783697085,
+                        "lng": 24.0310462697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "bd7851488e1e93bb5a976fb517e907be3296c87a",
+            "name": "Щось цікаве",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 3104,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106031178699911719385/photos\">Анастасія Терентьєва</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAyqFQHO3plstT44j1HcdDyavKstmD5YO6md29SGMt0mqvjWarauyexQsSqz3QyoGvqeIRRvuZLj8FHBbJpXYJxpWekbzPxnu2SbVbOAs5fnGcuPapHioFnplwV6zPnLrNEhAZXOgVTAxtQlNG7B5XEdWpGhQVyj1po1S1QODTcbWaMEslhDpK8A",
+                    "width": 4192
+                }
+            ],
+            "place_id": "ChIJscvTTWzdOkcRrjV4dxWNQXs",
+            "rating": 4.8,
+            "reference": "CmRRAAAAvBTgR0iJXJlRvoVHmhXhJWUjY0cUwLUCBNAxpCBqsi2yA8pLQEwzI7dsNfNAHJ2FwxkqxSNtwg0hWobH2ZaJ6vBKKPd6Ulo-YoVEmIohlLDVZ_owoJnuq0qUJvKUyYVHEhC74VjAI-O4nxDPsOCeHEQzGhRo7ZJsJ9gBt7NAujPF7qsGv2Aypw",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "cafe",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "площа Ринок, 13, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.8448546,
+                    "lng": 24.0275113
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.84611873029149,
+                        "lng": 24.0288554802915
+                    },
+                    "southwest": {
+                        "lat": 49.84342076970849,
+                        "lng": 24.02615751970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "4b39729f1a779e374deb2bdc83c2bc6c94c6e678",
+            "name": "Рибна ферма",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103542935817280344984/photos\">Тарас Кінаш</a>"
+                    ],
+                    "photo_reference": "CmRaAAAArWHoLChLJDO1wk1_e_RbIleaEYbWayLUcceUeoikJfZ-4M7_KjNBDXgkhvF49jVKGwZ5g0icwvYha2Epe13j7TgZMPYenPv8F6wj9Q9B05WsSkHkmR67duxk03acDdyaEhDmsOOnzJydUhIYbc_yREqlGhS06_LHzIbp93w6iKqlBcBRgVxWDg",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJOXHn3HLdOkcRWKk4KUUNF3s",
+            "rating": 4.6,
+            "reference": "CmRRAAAA1fd4zskwn1EQxllaj_HOYxrbjJ9XCSuL6xcj3pIOudc_Bf_paqAE2dfy59DqG-GhB2ZgMyHxPY1giRI5mXDMS8AbtTu2Zp8RalZh5dFob0JoVxjtpGi2lM7--HE-NW5CEhCS3mCqfrpAltuFtse_29D9GhT0hPkMbdTUWob0Z8VebBJMHiRwAw",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "площа Князя Ярослава Осмомисла, 11, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.829938,
+                    "lng": 24.031755
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8312911302915,
+                        "lng": 24.0330454302915
+                    },
+                    "southwest": {
+                        "lat": 49.8285931697085,
+                        "lng": 24.0303474697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "9b8b748ffcec146cb2d3bd0fb00400c1de569402",
+            "name": "Лігумінка",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1294,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102843123119613304842/photos\">Лігумінка</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAVpxNy08yqjBtS2Cw3P4Iuu7OWAdGjMbXlKidtJcEMNLm3DrS82zmch9coB03wDBxr-0ViuAfAoHDL6mvE0uTdRrkQcbRElwxev-zIqVeXSV6PDBYGuDZ-P3e7bQWz8ezEhC2MoupHJO12KPiqHFMwF88GhRG7AJYGnw_oqtcD7OfLT-OI8gNqA",
+                    "width": 1942
+                }
+            ],
+            "place_id": "ChIJXRzGPWfdOkcRU-NdLfeI6XU",
+            "rating": 4.3,
+            "reference": "CmRRAAAAL2FHdTQdBquAfFqDE252EbUs0Po0oyLn0kFc_nKjaTybd84Rz_Y0c7hnXJ_r3Jay7n56qW7457vsyurwrHYIyJ220ivQ4_zEMGNM7XMoaBoPD-XBowx7HMjhFhiY917ZEhCL6IoLD1uveKsz-Aim3HQPGhRwp5HURdt-QRkJWa948A8Edqgnfw",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вулиця Івана Франка, 77, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.83582089999999,
+                    "lng": 24.0326906
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8371242802915,
+                        "lng": 24.0338490302915
+                    },
+                    "southwest": {
+                        "lat": 49.8344263197085,
+                        "lng": 24.0311510697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "985d77c46af1735e6e891604f5e898be762e79d0",
+            "name": "Шотландское кафе",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117268695669243331380/photos\">Szkocka</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA2Tkf6_B5QGKXjZBTJciD07Et2lrLhOEw5_zfIo5LPYB_KRYKdI_i1oMf76XFFPc-o4K3MXHWe6uXnHCFVCEsKNuCW05LlXhJ2nf0faZB033tvP7Fhn9NQn2MZ0ASwlqjEhCdajA7teH8ai48VX-X0hYiGhTdWdqam3MtrYhAgE9mHKcuY3B4cA",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJk3U5xGjdOkcRYsPgmVkLgHI",
+            "rating": 4.9,
+            "reference": "CmRRAAAAMsfNN7fEg9tuqFqWLL4j5NTK_kQ73W4LP44Hcd7qhX85dtM9pTVFRGZSOZmNx8Evo6G2M0EOyOe_d-DYEcmaZKJjqLRn_7_YHS0GP2lTvZg-KRF5Klf2rNQViZfnbToLEhBjNjlIvnLtEVonEJenVZk-GhSFHqmS3jdtpaY4w0QAqpzQKR3keA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "проспект Шевченка, 27, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.841231,
+                    "lng": 24.0297421
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8425738802915,
+                        "lng": 24.0310646302915
+                    },
+                    "southwest": {
+                        "lat": 49.8398759197085,
+                        "lng": 24.0283666697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "0c48ea3951bc2fa973f52e27b449b66349803344",
+            "name": "Зірки",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 315,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116080427280188329666/photos\">Зірки</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA-GF9x3Tt_7hctCD11umr-Fe7wytSPtUP-mRNZ1RsUxbHQFlYHASyD7rMxhZo_x5lbWmc8ZZgy2JRmXhYortmJSODs0saKfIIa2xVggat_Ry5W22nFSdbiJrDl6KJ33oJEhB5GOr473NUKq3_tdxd-BH7GhTKv7ir6SPhHYYtd08M2B2gOOyeRw",
+                    "width": 851
+                }
+            ],
+            "place_id": "ChIJa0TLwW3dOkcRmgyKgePr_xw",
+            "rating": 3.4,
+            "reference": "CmRRAAAA1sNYpMgLzlIyjSXCKOeKQk9YeOPj4HF6rFzNGoVW5V8XEqamOwQ9OxeT50_TLEec72jx8pkVRJyA0guBRgqX5QnwZqKKc3Bc9RehCaneqHLrdk6v6iDsjedx8xQG8TRJEhBlDSluD_YRv9C4gCwKXSbYGhSeQ5cX_TOkR1TugYkkofHSQfkmYQ",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вулиця Театральна, 6, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.839531,
+                    "lng": 24.0336481
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8407272802915,
+                        "lng": 24.0349342802915
+                    },
+                    "southwest": {
+                        "lat": 49.8380293197085,
+                        "lng": 24.0322363197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "ee575dfc5305f57ba66af59f7d424d9c989802f6",
+            "name": "Кофішоп",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115127492721652564613/photos\">Богдан Подвірний</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAn7DyIUUKvUFQYkzqgZ9b9Q-GfzllrGQpNuagAFSnJ9a4QNCuNg2sWUQzlXTMH0ekf683DWqJFqqz6ouFUg0KJgxxPNcQuq2brTvTBn4bK7Vs2J4v0RocimM_xuW0QBWHEhBfRpgdQX2Tiv0fIeHZnROpGhT9v6bgzOzA2wliKF5gnJopedCcmw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJd8K8BGzdOkcRDshxJDyMUoI",
+            "rating": 4.5,
+            "reference": "CmRSAAAAv7kD5Y3n2RpFDsBmI3hsJaz4bd4o8IYVA5ch2rrWX8RLyBF5CzYrmvIlpmdwYSmDrLVx4oyJSB1qZYe6ZSBxAIy1rPH33Soeo1dfMabn6Qg8_ET3SCHGj5gzETX4St_FEhByFS9if_EhfVJdfWVomSJaGhQrAfmm05gxQZrfRa71Td660aQeEQ",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Соборна площа, 2А, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.8433265,
+                    "lng": 24.0318839
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8446074802915,
+                        "lng": 24.0332490802915
+                    },
+                    "southwest": {
+                        "lat": 49.8419095197085,
+                        "lng": 24.0305511197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "5da3394ce3c1656903ccf35d68eeaca7ccf74ce9",
+            "name": "Вірменка",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 4192,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115971254890554848049/photos\">Irina Kobernik</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADOqzlgaOYiks8h-fJBTJ3diT41BXIzKBly4ThNZHqaXoiijl_ufir3aPD1s9YaTnMlZ--GKNKB0Hen-huN_M_HqjNP_6gjfrCzn_LVid_f7n9nyyCw1iQ5atDcG_AkuOEhBXZooPJ-o22fm-JnrIl10yGhTLl-7TvIzn6sxkdF7dO13SzpirhQ",
+                    "width": 3104
+                }
+            ],
+            "place_id": "ChIJ0132E23dOkcRzyrp8bLGpZU",
+            "rating": 4.5,
+            "reference": "CmRSAAAApZXkFBvv8Njq46JblqKLeZ0PrTvniG9EZprMru5OdOlny7yg5cNDPGg-E3mlgRhzKkcxDDz1M2rB3LdKKPakxjHHYZantL7ieMe-xngBjHgLOG2bZPQBNv3CC364rZ8DEhAL_ciDjLI-QK0xuLF0poVAGhTlwo_nnsJCO_4bMynpN8t-jGmtpw",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вулиця Вірменська, 19, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.83982930000001,
+                    "lng": 24.0371015
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8411782802915,
+                        "lng": 24.0384504802915
+                    },
+                    "southwest": {
+                        "lat": 49.8384803197085,
+                        "lng": 24.0357525197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "e2299c0b568b47aab1511b223cb9c8a80e873829",
+            "name": "Франс.уа - пекарня, кав'ярня",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 589,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117736582115478655938/photos\">Франс.уа - пекарня, кав&#39;ярня</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAu0liDtMBrDaJ0WYJKsBtxJsl9FFxn5kNdbCnkmxlZykgH0isqf-VBjD1s696c82uFHk1swFlHVzlV56Dd2pRjPj9ZrRbNQ7dRNHnztreUQo-3ns91gIxyIU7QW74bkmbEhD1doEIp1GZQt5wXoYpLa4qGhQB55qgexf8sOX4RfUo_Ny4UWIxSA",
+                    "width": 1130
+                }
+            ],
+            "place_id": "ChIJ5U2t6mvdOkcRsQgxhqKvdgw",
+            "rating": 4.5,
+            "reference": "CmRRAAAAI8sVOy-1qxzYsLRNgbBriuJea-u065fjSU_ExAMdfws709y05UXxbDn0vWUcYWH2w_N_pcYyThZHgHe-S7_7q-FiMD84eNALR9-wvzqIlUpx1wEKZywd-CtWBI1mso71EhARG7VonouYdh-pJPyU8MZkGhTkuiv50bUheTCTCNsLuugUypRDfw",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вул. Личаківська 1.3, Львов"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.8373467,
+                    "lng": 24.031835
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.83868633029149,
+                        "lng": 24.0331025302915
+                    },
+                    "southwest": {
+                        "lat": 49.8359883697085,
+                        "lng": 24.0304045697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "d61594b51def57502b6f571bf9093fdc38e307e8",
+            "name": "Vape Hall",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 853,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117449572194018413699/photos\">Vape Hall</a>"
+                    ],
+                    "photo_reference": "CmRaAAAADTaAobnQ4LFLa04UmCDSNCoGBWgdM0BKrtkzrZBh2rzxT-3V8TahSnElG8XKAvog0Ug_vXq4UJ6IstvSDUblvhX2_gBEoVZaVRaNHQftRnvcy1nkCsCA04YcEdbQk_duEhCJxJBprj7oKR7QL9J4vqwRGhQjqubCucoNyo3hCzz7rbj2IxeFFA",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJd9uq0W7dOkcRrNRnMmh6tYo",
+            "rating": 4.6,
+            "reference": "CmRSAAAAe67WYcRWWxLKNVUGHd21nINO-5XKapHe2QzAn8MeTW5MwLPrpyga79GkrzTkhgGLf95-EyVyRrTDsTk7sAOL6sF5Tm53BHMe6BsC4wusVK8U3mNWVzS7ZbKWP2tQYfvjEhD_dgLfSRNMxe8-nzzWH5uZGhQTlqqXY13Tw4vk4-B_WAUzHqWUBA",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "проспект Шевченка, 13, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.840353,
+                    "lng": 24.032718
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.84166158029149,
+                        "lng": 24.0340911802915
+                    },
+                    "southwest": {
+                        "lat": 49.8389636197085,
+                        "lng": 24.0313932197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "8873d39b0e2874a4799189132eb38dda8a290b66",
+            "name": "ЦУКОР",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 941,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106106404232064025657/photos\">ЦУКОР</a>"
+                    ],
+                    "photo_reference": "CmRZAAAA19gvQ4KHeA9gJlYi9xHdUHX2qPeVX_uM9T8BWaoty-KaHNYsglgadIpmSpDKsGpQWWqV1U7bpBsbmLMqINmHv8GExcwNHADw6qr6CBovAEk5_DYgGCs5GAIyoJMF5cowEhAncuRBLtkx61vcma1bWZoXGhTr_TxMjSAsqs83wbFTiqVJOT5j-g",
+                    "width": 941
+                }
+            ],
+            "place_id": "ChIJZxADPGzdOkcR8F19RSXX8zM",
+            "rating": 4.5,
+            "reference": "CmRRAAAA75NAUBoVFhqaZND3qjkkFshlqKk7pyCyWeDzyJ4gD-Jh9dlYCN7W-pFy473w4mVYqIXcQWIi9Qhshofy0mNIZpYPYHvGxCwA8pe_BiQ1YghJlcKxYg3ZpYiERU2EEJw6EhA7Tv0bgVhGpi3fmg7bobNaGhRzhq430kMcCURdxHii_RY3AIiw7Q",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вулиця Братів Рогатинців, 21, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.8372622,
+                    "lng": 24.0357734
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8386647802915,
+                        "lng": 24.03716273029151
+                    },
+                    "southwest": {
+                        "lat": 49.8359668197085,
+                        "lng": 24.0344647697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "5c06215e735c97c2312ae4792c14df820fd1d011",
+            "name": "Кафе-гостиная",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2517,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103465265324772867159/photos\">Кафе-вітальня</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcLmXrD_2KHxnrjdNJafSESUTEs1NUThv9Ii0lcA-YBI3fiEXp2sBTxcfuItZ5gp6b8H9nkcO5jmia9ZhyDaMu3R9goiddMRWB_j2r-ZbVcuxIlNf175qqr2pFEETdDx6EhCjnVYuNE2QB7WJZDb-_hOwGhT6PoQwTUSka1VkY0WPrKCTOj6OAg",
+                    "width": 3776
+                }
+            ],
+            "place_id": "ChIJjeemEmndOkcRhw5Q-qbzuLE",
+            "rating": 4.7,
+            "reference": "CmRSAAAAAz8dxo71ypiWTViWiWqsECMI7szphCVErmcnphooldTTD027TTExanjAcUsBpcF8nuNPyALGAfIoLfwg-qhttYsjRFnCrG12od9X4QlnRlHMmXHw19JjMrrIxdR8I2f6EhANZcSuSUUmW6T-f9KM9saYGhT8EFG48NQLujeYj1ChZRnmEEV-Yg",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вулиця Академіка Богомольця, 6/1, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.8372071,
+                    "lng": 24.0536662
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8386104302915,
+                        "lng": 24.0550460302915
+                    },
+                    "southwest": {
+                        "lat": 49.8359124697085,
+                        "lng": 24.0523480697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "3191faa168fd5b50e09b2e9c9478d62f7f725c75",
+            "name": "Крокодил",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 4192,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104199575167861970629/photos\">Михаил Царюк</a>"
+                    ],
+                    "photo_reference": "CmRaAAAACigBR89sh8jk4yFwysXXDrQZu9ffNWKWJrKv72Aj_Nozjx_y-XPv3vt6cGGrEh_UQjYswbihtRrxuz8_jHX0YHuuxOhbCAFc4KJc1RbxFfpho5hVuUQfl7HK2UMitTQsEhCYbKouwCfQOOg-lrwRsdlmGhQJrkJk1DU-LKVVT-CHEIJ-ah1vAA",
+                    "width": 3104
+                }
+            ],
+            "place_id": "ChIJj8nq_kbdOkcRq_B3kDDmqi0",
+            "rating": 3.3,
+            "reference": "CmRRAAAAxVo0zxmIkkNvrRJhXDuHrKwTfzdjEiJGv7W8O6nfNuJdo085zNHrH33hlIPiretKbE3SiSIL7K3dkGbv-Ax-h6TVeBLkR9PmRz0W7H9BgZkEP2zyB4H-I8-kjHJOPqGdEhBBoU9MxIO_KFAjEDIw2HTJGhTMZotSN6-Q6c4L4yjIjPNAinbc-Q",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вулиця Некрасова, 10, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.840444,
+                    "lng": 24.03068
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.84208848029149,
+                        "lng": 24.0318734802915
+                    },
+                    "southwest": {
+                        "lat": 49.83939051970849,
+                        "lng": 24.0291755197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "4b72ba32e2599033b76d0ccbdd327b565602fb97",
+            "name": "Мир кофе",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1333,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117968279598635945681/photos\">Світ кави</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWezoSn0KuBfZ9mZI9fg_fdDFydQgiQHxMDSGhAWSNqWu_2euxGhaVza-QgrHacEnjL7TB4tzdvJWLoGqXJAhSu5Dyuwu2LXvL_m6qgqjsa_28od4PY_Q4waS1XtTFolbEhDRLBNpZeCAi31PQF7NMeEGGhRbEZ9QExzlg6CzCFZoCcxLjgm8rA",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJJ5xc0m3dOkcRvy8HrBsJt8s",
+            "rating": 4.6,
+            "reference": "CmRSAAAArrlaHEaRbrHEbLaLs8qWuMEUEaVzzNVw5NY5SRm6JSqP7D53U8mUFog7Obpc-sqMG9eUVBl6vdcb0sCdWQyZA4JGWp_Fbn3Hjxb53xvBSujCLmEBv70Mm5nguIIKzmjFEhBkyHYb0YcSQn44mn0ExK-0GhTxekrqDHJY0bJK3e-rPp01qz3NCw",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "площа Катедральна, 6, Львів"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 49.8405314,
+                    "lng": 24.0316951
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.8418043302915,
+                        "lng": 24.0328853302915
+                    },
+                    "southwest": {
+                        "lat": 49.8391063697085,
+                        "lng": 24.0301873697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f9b84e266a13f554b36455ff860a4257a28321a2",
+            "name": "Вандлер",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2432,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105637878198773524148/photos\">Marta Zdanevych</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1fpELhdapMJD0fErmUhpGMfHYD3YW8uxiLhermTtfiVwTiRuQkDrQqTG_odVN0xLRsTSpax_wCyQczGQxt7zI6hDuAACfjRmuQrI53ASiPP3xZJE_z29RuYNA4pmKRTkEhDPaFpnqx3FSmD6Poji1PjhGhRIN3PTlf_l6sU--Luk9wVqCi8H4Q",
+                    "width": 3648
+                }
+            ],
+            "place_id": "ChIJfcvlM2zdOkcRB2CE0Mgd8LE",
+            "rating": 4.7,
+            "reference": "CmRSAAAA3I-NfQjhd-4iC0xnvPqaCN3J8gU_J9BiL03axBMVZ_1Smw9R0etbwKanFwew1Uk849lXlmXAUrcOf9FjDX86a7QQgFQy9XVL7uktyweqnoMxEm2OaOUHe__vN1BD2YBGEhAGBrmF_prTe3LwxwM6LqXaGhQFdwHPBmdMTHRRIjkm_6FuN0oNfQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "вулиця Староєврейська, 5, Львів"
+        }
+    ],
+    "status": "OK"
+};
+
+let allData = [];
 const resFilter = data => data.results.map(result => (
         {
             // googleId: result.id,
             // googlePlaceId: result.place_id,
+            location: result.geometry.location,
             name: result.name,
             rating: result.rating,
             address: result.vicinity
@@ -1887,8 +2824,12 @@ const resFilter = data => data.results.map(result => (
     )
 );
 
+allData.push(...resFilter(data), ...resFilter(data2), ...resFilter(data3));
+
 // console.log(resFilter(data));
-console.log(resFilter(data2));
+allData.sort((a, b) => b.rating - a.rating);
+console.log(allData);
+console.log(allData.length);
 
 // fetch(url, {mode:'no-cors'}).then(response => response.json())
 // .then(data => resFilter(data))
